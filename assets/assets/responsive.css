@@ -1,0 +1,26 @@
+@media (max-width: 1200px){
+    .crm-logo-main {margin-top: 7px;margin-left: 15px;width: 200px;}
+}
+@media (max-width: 991px){
+    .crm-logo-main {margin-top: 0px;margin-left: 5px;width: 155px;}
+}
+@media (max-width: 780px){
+    .crm-logo-image {width: 100% !important;}
+    .crm-logo{text-align: center;}
+    .crm-logo-main{width: auto;margin-left: 0 !important;margin-bottom: 15px;}
+    .menu-profile {float: right;margin-top: 5px;display: block;width: 100%;text-align: center;}
+    .profile .panel-heading h4 {float: none !important;text-align: center;padding-bottom: 10px;}
+    .menu-profile ul li {float: none !important;display: inline-block;}
+}
+@media (max-width: 650px){  
+    .btn-delete-all {font-size: 12px;padding: 3px 8px;}
+}
+@media (max-width: 480px){
+    .menu-profile ul li:first-child {margin-bottom: 10px}
+}
+@media (max-width: 420px){
+    .navbar-brand p{font-size: 16px}
+}
+@media (max-width: 400px){
+    .navbar-brand p{font-size: 14px}
+}
